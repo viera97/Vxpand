@@ -9,7 +9,7 @@
 #### What is Vxpand
 
 Vxpand is a text expander multiplataform app, that detectects predefined **keywords** 
-and replaces it with with a predefined anwser. It's based on the Idea of [espanso](https://github.com/espanso/espanso) a great project with very good extensions. It's written in python so it's easy for everyone to contribute.
+and replaces it with with a predefined anwser. It's written in python so it's easy for everyone to contribute. It's based on the Idea of [espanso](https://github.com/espanso/espanso) a great project with very good extensions.
 
 ## Installation
 
